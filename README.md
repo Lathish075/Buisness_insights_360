@@ -49,7 +49,7 @@ KPIs Included
 - Top Products
 - Market Performance
 
-## Marketing view
+## 4.Marketing view
 The Marketing View helps evaluate market trends and product growth.
 
 Key Insights
@@ -64,7 +64,7 @@ KPIs Included
 - Customer Performance
 - Brand Contribution
 
-## supply chain view
+## 5.supply chain view
 This view focuses on forecasting accuracy and operational efficiency.
 
 Key Insights
